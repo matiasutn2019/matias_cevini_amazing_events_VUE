@@ -1,0 +1,176 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#logo {
+    width: 8rem;
+    height: auto;
+    margin-left: 1rem;
+}
+
+nav {
+    background-color: black;
+    color: #A238FF;
+}
+
+nav a {
+    text-decoration: none;
+    color: #A238FF !important;
+    margin-right: 1rem !important;
+    font-size: 1.5rem !important;
+}
+
+nav a:hover {
+    font-weight: bold;
+}
+
+nav button {
+    background-color: #A238FF !important;
+}
+
+header {
+    background-color: #A238FF;
+    color: white;
+    text-align: center;
+    height: 17vh;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+#main-top {
+    padding: 1rem;
+}
+
+.label {
+    color: #A238FF;
+    margin-left: 0.5rem;
+    margin-right: 1rem;
+}
+
+#btn {
+    background-color: #A238FF;
+    color: white;
+}
+
+.card {
+    background-color: #A238FF;
+    width: 18rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    height: 24rem;
+}
+
+.list-group-item {
+    background-color: #A238FF;
+}
+
+#card-container {
+    padding-bottom: 2rem;
+}
+
+.txth5 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: white;
+}
+
+.txtdesc {
+    text-align: justify;
+    color: white;
+}
+
+.txtprice {
+    padding: 0.5rem;
+    color: white;
+}
+
+.txtmore {
+    padding: 0.5rem;
+    color: white;
+    text-decoration: none;
+}
+
+.txtmore:hover {
+    color: white;
+    font-weight: bold;
+}
+
+.img {
+    height: 10rem;
+}
+
+footer {
+    background-color: #A238FF;
+    height: 8vh;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
+
+main {
+    padding-bottom: 10vh;
+}
+
+footer h3 {
+    color: white;
+    font-size: 1.5rem;
+}
+
+footer a {
+    text-decoration: none;
+    margin-right: 1.5rem;
+    color: white;
+}
+
+footer a:hover {
+    color: white;
+}
+
+#main-contact {
+    padding-top: 1.5rem;
+    width: 50%;
+}
+
+#main-contact label {
+    color: #A238FF;
+    font-size: 1.2rem;
+}
+
+#sub-buttom-contact {
+    border: 2px solid;
+    border-color: #A238FF;
+    color: #A238FF;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+#main-details-div {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+    background-color: #A238FF;
+    margin-bottom: 3rem;
+}
+
+#main-stats h2 {
+    color: #A238FF;
+    font-size: 1.7rem;
+}
+
+table th,
+table td {
+    color: #A238FF;
+    border: none;
+}
+
+#formIndex {
+    height: 2.5rem !important;
+}
